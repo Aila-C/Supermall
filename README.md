@@ -1,4 +1,4 @@
-# mallmode
+# mall2
 
 ## Project setup
 ```
